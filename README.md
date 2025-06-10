@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Sharmila Devi R (@sharmii-r)
 
-- 👩‍💻 Web Dev & ML Enthusiast | B.Tech IT @ SASTRA
-- 🌱 Learning Django, Data Mining, & AI for Good
+- 👩‍💻 Web Development & ML Enthusiast | B.Tech IT @ SASTRA
+- 🌱 Learning UI/UX Design
 - 🤝 Open to collaborate on tech projects with social impact
 - 📫 Reach me at:  
   ✉️ devisharmila9595@gmail.com | 📱 +91-8610576105  
